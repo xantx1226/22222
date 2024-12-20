@@ -1,0 +1,373 @@
+@charset "utf-8";
+body
+{
+	background:#549688;
+	height:100px;
+}
+.link1
+{
+	color:#000000;
+	text-decoration:none;
+	font-family:"阿里巴巴普惠体";
+
+}
+.link1:hover
+{
+	color:#FF9933;
+	text-decoration:underline;
+	font-family:"阿里巴巴普惠体";
+
+}
+.link2
+{
+	color:#000000;
+	text-decoration:none;
+    font-family:"阿里巴巴普惠体";
+}
+.link2:hover
+{
+	background:#CC6600;
+	background-size:cover;
+}
+img
+{
+	height:60px;
+}
+#body
+{
+	width:100%;
+	height:1200px;
+}
+#body1
+{
+	width:100%;
+	height:1000px;
+
+}
+#card
+{
+	background:#FFFFFF;
+	background-repeat:no-repeat;
+	height:180px;
+	width:260px;
+	margin-top:30px;
+	margin-left:1%;
+	margin-right:1%;
+	float:left;
+	border-radius:50px;
+}
+#card:hover
+{
+    background-color:#FFFFFF;
+	box-shadow:0px 0px 10px #CCCCCC,0px 0px 10px #CCCCCC;
+	background-repeat:no-repeat;
+	height:180px;
+	width:260px;
+	margin-top:30px;
+	margin-left:1%;
+	margin-right:1%;
+	float:left;
+	border-radius:50px;
+
+}
+#cardcar
+{
+	width:100%;
+	height:60px;
+	text-align:center;
+	font-family:"阿里巴巴普惠体";
+}
+#cardspace
+{
+	width:100%;
+	height:10px;
+}
+#cardname
+{
+	width:100%;
+	height:20px;
+	text-align:center;
+
+}
+#cardfont
+{
+    width:100%;
+	height:20px;
+	text-align:center;
+	color:#CC0000;
+	font-family:"阿里巴巴普惠体";
+}
+#cardstar
+{
+	width:100%;
+	height:25px;
+	background:url(%E4%BA%94%E9%A2%97%E6%98%9F.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+#cardfoot
+{
+	width:100%;
+	height:20px;
+	float:left;
+}
+#findmore
+{
+	height:100%;
+	width:70px;
+	float:left;
+	border-radius:5px;
+	border: #CCCCCC 1px solid;
+	text-align:center;
+}
+#cardfootspace
+{
+	height:100%;
+	width:12px;
+	float:left;
+}
+#pinpai
+{
+	width: 100%;
+	height: 150px;
+	border-radius: 30px;
+	background-color: #e9f8f1;
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr;
+
+}
+li
+{
+	float:left;
+	list-style:none;
+	margin-right:100px;
+	font-size:30px;
+	align-items:center;
+}
+#mingcheng
+{
+	width:160px;
+	height:60px;
+	float:left;
+}
+#chebiao
+{
+	height:60px;
+	width:60px;
+	float:left;
+	text-align:center;
+
+}
+#mingchengwenzi
+{
+	height:50px;
+	width:100px;
+	float:left;
+	font-size:30px;
+
+}
+#mingchengkongge
+{
+	width:100%;
+	height:10px;
+}
+.headdiv
+{
+	width:100%;
+	height:60px;
+	background:#8cdab9;
+	border-radius:30px;
+}
+#logo
+{
+width:170px;
+height:100%;
+float:left;
+}
+#logo a
+{
+	color:#000000;
+}
+#logospace
+{
+	height:40px;
+	width:2%;
+	float:left;
+}
+#headbuttom
+{width:80px;
+height:60px;
+float:left;
+background:#daf3e7;
+border-radius:15px;
+	text-align:center;
+
+}
+#headbuttom:hover
+{width:80px;
+height:60px;
+float:left;
+background:#daf3e7;
+border-radius:15px;
+text-align:center;
+box-shadow:0px 0px 10px #666,0px 0px 10px #666;
+}
+#sousuo
+{
+	height:40px;
+	width:200px;
+	margin:5px 0px;
+	border-radius:10px;
+}
+#sousuobuttom
+{
+	height:40px;
+	width:50px;
+	border-radius:10px;
+	background:#3C9;
+}
+#denglu
+{
+	width:50px;
+	height:100;
+}
+#denglu img
+{
+	width:30px;
+	height:auto;
+}
+#headhead
+{
+	width:80%;
+	height:10px;
+}
+#lefthead
+{
+	width:10%;
+	height:1200px;
+	float:left;
+}
+#index
+{width:80%;
+height:2000px;
+float:left;
+}
+
+#righthead
+{
+	width:10%;
+	height:1200px;
+	float:left;
+}
+#bodybody
+{
+	width:100%;
+	height:1200px;
+}
+#cedaohanglan
+{
+	width:100px;
+	height:500px;
+background:#daf3e7;
+border-radius:20px;
+float:center;
+}
+#leftheadspace
+{
+	width:100%;
+	height:100px;
+}
+#leftbottom
+{
+	width:100%;
+	height:100px;
+	background:#e9f8f1;
+	margin-top:20px;
+	border-radius:20px;
+
+}
+#leftbottom img
+{
+	width:100px;
+	height:auto;
+}
+#leftbottom:hover
+{
+	width:100%;
+	height:100px;
+	background:#e9f8f1;
+	margin-top:20px;
+	border-radius:20px;
+    box-shadow:0px 0px 10px #666,0px 0px 10px #666;
+}
+#vedio
+{
+	height:100%;
+	width:70%;
+	background:#e9f8f1;
+		border-radius: 30px;
+		float:left;
+		display:grid;
+	grid-template-columns:1fr 1fr 1fr ;
+	justify-items:center;
+
+}
+#vediospace
+{
+	width:50px;
+	height:100%;
+	float:left;
+}
+#paihangbang
+{
+	width:25%;
+	height:610px;
+		background:#e9f8f1;
+		border-radius:30px;
+		float:left;
+}
+#vediocard
+{
+	background:#FFFFFF;
+	background-repeat:no-repeat;
+	height:180px;
+	width:260px;
+	margin-top:30px;
+	margin-left:1%;
+	margin-right:1%;
+	float:left;
+	cursor:pointer;
+}
+video
+{
+	width:260px;
+	height:auto;
+}
+#no
+{
+	width:100%;
+	height:50px;
+	background:#FFF;
+	font-family:"阿里巴巴普惠体";
+
+}
+#nospace
+{
+	width:100%;
+	height:28px;
+}
+#no:hover
+{
+	width:100%;
+	height:50px;
+
+	border: #8cdab9 3px solid;
+}
+#body2
+{
+	width:100%;
+	height:800px;
+	margin-top:50px;
+	border:#e9f8f1 5px solid;
+	border-radius:10px;
+}
